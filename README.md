@@ -26,8 +26,7 @@ Transfermarkt adalah sebuah platform data olahraga yang berfokus pada dunia sepa
 
 <div align="justify">
 Proyek ini bertujuan untuk menjelajahi lebih dalam analisis nilai pasar dan performa pemain sepak bola profesional, khususnya yang bermain di English Premier League (EPL), dengan menggunakan teknik web scraping pada website Transfermarkt. Dengan mengakses data langsung dari Transfermarkt, kita dapat memperoleh wawasan yang mendalam mengenai dinamika pasar pemain, riwayat transfer, statistik performa per musim, serta riwayat cedera. Proyek ini tidak hanya memberikan pemahaman lebih baik tentang hubungan antara performa dan nilai pasar pemain, tetapi juga membuka peluang untuk membangun model prediktif atau sistem rekomendasi dalam dunia sepak bola. Scraping data dari Transfermarkt memungkinkan pengembang untuk mengumpulkan informasi penting dan terstruktur sebagai dasar analisis berbasis data.
-
-- Data yang diambil meliputi beberapa poin utama berikut:
+Data yang diambil meliputi beberapa poin utama berikut:
 
 - Nama dan identitas pemain: mencakup nama lengkap, kewarganegaraan, umur, tinggi badan, kaki dominan, posisi utama, dan klub saat ini.
 
