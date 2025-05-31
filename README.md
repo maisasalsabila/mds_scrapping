@@ -49,7 +49,7 @@ Data yang diambil meliputi beberapa poin utama berikut:
 ## 👨‍💻 PPT
 
 Berikut link slides powerpoint terkait project: 
-https://www.canva.com/design/DAGoqSC2vvk/CO34OKOQl65xG8B8w_I-4g/edit
+https://www.canva.com/design/DAGot2gjuRw/0HauPdW-f7h7lJSLOvpSOw/edit
 
 ## 📈 Data Scrapping
 
