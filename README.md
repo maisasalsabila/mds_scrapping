@@ -49,13 +49,17 @@ Data yang diambil meliputi beberapa poin utama berikut:
 ## 👨‍💻 PPT
 
 Berikut link slides powerpoint terkait project: 
-https://www.canva.com/design/DAGot2gjuRw/0HauPdW-f7h7lJSLOvpSOw/edit
+https://www.canva.com/design/DAGo_u_X77w/15WayZjLpR3bWCeVqTVH1g/edit
 
 ## 📈 Data Scrapping
 
 
 ## 🗂️ Struktur Folder
 - `data/` → Data Scrapping
-- `Image/` → Gambar visualisasi, gambar flowchart dan header
+- `Image/` → Gambar header
 
 ## 👭👬 Team 
+<a href="https://github.com/mhmmadyusran">Muhammad Yusran</a><br>
+<a href="https://github.com/panjiarf4">Panji Loka Jaya Arifa</a><br>
+<a href="https://github.com/Lisa-Amelia">Lisa Amelia</a><br>
+<a href="https://github.com/maisasalsabila">Maisa Salsabila</a><br>
