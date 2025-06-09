@@ -9,9 +9,9 @@
 <p align="center">
   <a href="#-deskripsi">Deskripsi</a> •
   <a href="#-project">Project</a> •
+  <a href="#-data-scrapping">Data Scrapping</a> •
   <a href="#-document-mongodb">Document MongoDb</a> •
   <a href="#-ppt">PPT</a> •
-  <a href="#-data-scrapping">Data Scrapping</a> •
   <a href="#-struktur-folder">Struktur Folder</a> •
   <a href="#-team">Team</a> 
 </p>
@@ -42,6 +42,44 @@ Data yang diambil meliputi beberapa poin utama berikut:
 
 - Prestasi/gelar: daftar penghargaan atau trofi yang diraih oleh pemain selama karier profesionalnya, baik di level klub maupun tim nasional.
 </div>
+## 📈 Data Scrapping
+
+Berikut adalah data yang diambil dari scrapping transfermarkt untuk liga inggris musim 2024/2025.
+
+| Field          | Subfield       | Deskripsi                                           |
+| -------------- | -------------- | --------------------------------------------------- |
+| `_id`          | `$oid`         | Object ID unik dokumen MongoDB                      |
+| `player_id`    |                | ID pemain unik                                      |
+| `profile`      | `updatedAt`    | Tanggal update profil terakhir                      |
+|                | `id`           | ID pemain                                           |
+|                | `url`          | URL profil pemain di Transfermarkt                  |
+|                | `name`         | Nama singkat pemain                                 |
+|                | `description`  | Deskripsi singkat pemain                            |
+|                | `fullName`     | Nama lengkap pemain                                 |
+|                | `imageUrl`     | URL gambar pemain                                   |
+|                | `dateOfBirth`  | Tanggal lahir pemain                                |
+|                | `placeOfBirth` | Kota dan negara tempat lahir                        |
+|                | `age`          | Usia pemain                                         |
+|                | `height`       | Tinggi pemain dalam cm                              |
+|                | `citizenship`  | Negara kewarganegaraan                              |
+|                | `isRetired`    | Status pensiun pemain                               |
+|                | `position`     | Posisi utama pemain                                 |
+|                | `foot`         | Kaki dominan pemain                                 |
+|                | `shirtNumber`  | Nomor punggung pemain                               |
+|                | `club`         | Klub saat ini (termasuk masa kontrak)               |
+|                | `marketValue`  | Nilai pasar pemain dalam Euro                       |
+|                | `agent`        | Agen pemain                                         |
+|                | `outfitter`    | Sponsor perlengkapan pemain                         |
+|                | `socialMedia`  | Media sosial pemain                                 |
+| `market_value` | `updatedAt`    | Tanggal update nilai pasar terakhir                 |
+|                | `id`           | ID pemain                                           |
+|                | `marketValue`  | Nilai pasar saat ini                                |
+|                | `ranking`      | Ranking pemain (global, liga, klub, negara, posisi) |
+| `transfers`    |                | Riwayat transfer pemain                             |
+| `stats`        |                | Statistik penampilan pemain per kompetisi           |
+| `injuries`     |                | Riwayat cedera pemain                               |
+| `achievements` |                | Daftar pencapaian atau pengahargaan  pemain         |
+
 
 ## 📄 Document MongoDb
 
@@ -139,9 +177,6 @@ Struktur ini mencakup informasi terkait profil pemain, nilai pasar, transfer, st
 
 Berikut link slides powerpoint terkait project: 
 https://www.canva.com/design/DAGo_u_X77w/15WayZjLpR3bWCeVqTVH1g/edit
-
-## 📈 Data Scrapping
-
 
 ## 🗂️ Struktur Folder
 - `data/` → Data Scrapping
