@@ -11,6 +11,7 @@
   <a href="#-project">Project</a> •
   <a href="#-data-scrapping">Data Scrapping</a> •
   <a href="#-document-mongodb">Document MongoDb</a> •
+  <a href="#-agregasi-dan-visualisasi">Agregasi dan Visualisasi</a> •
   <a href="#-ppt">PPT</a> •
   <a href="#-struktur-folder">Struktur Folder</a> •
   <a href="#-team">Team</a> 
@@ -43,8 +44,8 @@ Data yang diambil meliputi beberapa poin utama berikut:
 - Prestasi/gelar: daftar penghargaan atau trofi yang diraih oleh pemain selama karier profesionalnya, baik di level klub maupun tim nasional.
 </div>
 
-## 📈 Data Scrapping
-Berikut adalah data yang diambil dari scrapping transfermarkt untuk liga inggris musim 2024/2025.
+## 🗃️ Data Scrapping
+Berikut adalah data yang diambil dari scrapping transfermarkt untuk liga inggris musim 2024/2025 dengan format JSON.
 
 | Field          | Subfield       | Deskripsi                                           |
 | -------------- | -------------- | --------------------------------------------------- |
@@ -171,6 +172,10 @@ Terdapat sebanyak 543 dokumen yang digunakan berikut salah satu struktur data Mo
 ```
 
 Struktur ini mencakup informasi terkait profil pemain, nilai pasar, transfer, statistik pertandingan, riwayat cedera, serta penghargaan pemain
+## 📈 Agregasi Dan Visualisasi
+
+Berikut link rpubs :
+https://rpubs.com/panjiarf/1320064
 
 ## 👨‍💻 PPT
 
