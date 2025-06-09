@@ -42,8 +42,8 @@ Data yang diambil meliputi beberapa poin utama berikut:
 
 - Prestasi/gelar: daftar penghargaan atau trofi yang diraih oleh pemain selama karier profesionalnya, baik di level klub maupun tim nasional.
 </div>
-## 📈 Data Scrapping
 
+## 📈 Data Scrapping
 Berikut adalah data yang diambil dari scrapping transfermarkt untuk liga inggris musim 2024/2025.
 
 | Field          | Subfield       | Deskripsi                                           |
