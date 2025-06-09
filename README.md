@@ -83,8 +83,7 @@ Berikut adalah data yang diambil dari scrapping transfermarkt untuk liga inggris
 
 ## 📄 Document MongoDb
 
-Salah satu struktur data MongoDB dari dokumen Ederson Santana de Moraes.
-
+Terdapat sebanyak 543 dokumen yang digunakan berikut salah satu struktur data MongoDB dari dokumen Ederson Santana de Moraes.
 
 ```json
 {
