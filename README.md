@@ -45,6 +45,95 @@ Data yang diambil meliputi beberapa poin utama berikut:
 
 ## 📄 Document MongoDb
 
+Salah satu struktur data MongoDB dari dokumen Ederson Santana de Moraes.
+
+
+```json
+{
+  "_id": { "$oid": "6825995b09f2b8643605f2d2" },
+  "player_id": "238223",
+  "profile": {
+    "updatedAt": "2025-05-03T11:36:10.861564",
+    "id": "238223",
+    "url": "https://www.transfermarkt.com/ederson/profil/spieler/238223",
+    "name": "Ederson",
+    "description": "Ederson, 31, from Brazil ➤ Manchester City, since 2017 ➤ Goalkeeper ➤ Market value: €25.00m ➤ * Aug 17, 1993 in Osasco, Brazil",
+    "fullName": "Ederson Santana de Moraes",
+    "imageUrl": "https://img.a.transfermarkt.technology/portrait/header/238223-1713391842.jpg?lm=1",
+    "dateOfBirth": "1993-08-17",
+    "placeOfBirth": { "city": "Osasco", "country": "Brazil" },
+    "age": 31,
+    "height": 188,
+    "citizenship": ["Brazil", "Portugal"],
+    "isRetired": false,
+    "position": { "main": "Goalkeeper", "other": [] },
+    "foot": "left",
+    "shirtNumber": "31",
+    "club": { "id": "281", "name": "Man City", "joined": "2017-07-01", "contractExpires": "2026-06-30" },
+    "marketValue": 25000000,
+    "agent": { "name": "Gestifute", "url": "/gestifute/beraterfirma/berater/413" },
+    "outfitter": "Puma",
+    "socialMedia": [
+      "http://twitter.com/edersonmoraes93",
+      "http://www.facebook.com/Ederson93/",
+      "http://instagram.com/ederson93/"
+    ]
+  },
+  "market_value": {
+    "updatedAt": "2025-05-03T11:36:14.538594",
+    "id": "238223",
+    "marketValue": 25000000,
+    "ranking": {
+      "Worldwide": 352,
+      "Premier League": 165,
+      "Man City": 20,
+      "Brazil": 27,
+      "Goalkeeper": 10,
+      "Year 1993": 2
+    }
+  },
+  "transfers": [{
+    "clubFrom": { "name": "Benfica" },
+    "clubTo": { "name": "Man City" },
+    "date": "2017-07-01",
+    "marketValue": 22000000,
+    "fee": 40000000
+  },
+  {
+    "clubFrom": { "name": "Rio Ave" },
+    "clubTo": { "name": "Benfica" },
+    "date": "2015-07-01",
+    "marketValue": 1200000,
+    "fee": 500000
+  }],
+  "stats": [{
+    "competitionName": "Premier League",
+    "seasonId": "24/25",
+    "appearances": 23,
+    "yellowCards": 3,
+    "minutesPlayed": 2
+  }],
+  "injuries": [{
+    "season": "24/25",
+    "injury": "Hip problems",
+    "fromDate": "2025-04-13",
+    "days": 21,
+    "gamesMissed": 4
+  }],
+  "achievements": [{
+    "title": "Champions League winner",
+    "season": "22/23",
+    "club": "Manchester City"
+  }, {
+    "title": "English Champion",
+    "count": 6,
+    "seasons": ["17/18", "18/19", "20/21", "21/22", "22/23", "23/24"],
+    "club": "Manchester City"
+  }]
+}
+```
+
+Struktur ini mencakup informasi terkait profil pemain, nilai pasar, transfer, statistik pertandingan, riwayat cedera, serta penghargaan pemain
 
 ## 👨‍💻 PPT
 
