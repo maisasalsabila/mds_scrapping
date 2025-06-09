@@ -180,7 +180,7 @@ https://rpubs.com/panjiarf/1320064
 ## 👨‍💻 PPT
 
 Berikut link slides powerpoint terkait project: 
-https://www.canva.com/design/DAGo_u_X77w/15WayZjLpR3bWCeVqTVH1g/edit
+https://drive.google.com/file/d/1g0QZTRP47POHJCy5tUZprhd7X6tHA0ba/view?usp=sharing
 
 ## 🗂️ Struktur Folder
 - `data/` → Data Scrapping
