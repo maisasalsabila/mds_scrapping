@@ -13,7 +13,6 @@
   <a href="#-document-mongodb">Document MongoDb</a> •
   <a href="#-agregasi-dan-visualisasi">Agregasi dan Visualisasi</a> •
   <a href="#-ppt">PPT</a> •
-  <a href="#-struktur-folder">Struktur Folder</a> •
   <a href="#-team">Team</a> 
 </p>
 
@@ -181,10 +180,6 @@ https://rpubs.com/panjiarf/1320064
 
 Berikut link slides powerpoint terkait project: 
 https://drive.google.com/file/d/1g0QZTRP47POHJCy5tUZprhd7X6tHA0ba/view?usp=sharing
-
-## 🗂️ Struktur Folder
-- `data/` → Data Scrapping
-- `Image/` → Gambar header
 
 ## 👭👬 Team 
 <a href="https://github.com/mhmmadyusran">Muhammad Yusran</a><br>
